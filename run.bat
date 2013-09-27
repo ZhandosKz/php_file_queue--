@@ -1,0 +1,32 @@
+@ECHO OFF
+start C:\courts\wget.exe -O - http://temp.dev
+start C:\courts\wget.exe -O - http://temp.dev
+start C:\courts\wget.exe -O - http://temp.dev
+start C:\courts\wget.exe -O - http://temp.dev
+start C:\courts\wget.exe -O - http://temp.dev
+start C:\courts\wget.exe -O - http://temp.dev
+start C:\courts\wget.exe -O - http://temp.dev
+start C:\courts\wget.exe -O - http://temp.dev
+start C:\courts\wget.exe -O - http://temp.dev
+start C:\courts\wget.exe -O - http://temp.dev
+start C:\courts\wget.exe -O - http://temp.dev
+start C:\courts\wget.exe -O - http://temp.dev
+start C:\courts\wget.exe -O - http://temp.dev
+start C:\courts\wget.exe -O - http://temp.dev
+start C:\courts\wget.exe -O - http://temp.dev
+start C:\courts\wget.exe -O - http://temp.dev
+start C:\courts\wget.exe -O - http://temp.dev
+start C:\courts\wget.exe -O - http://temp.dev
+start C:\courts\wget.exe -O - http://temp.dev
+start C:\courts\wget.exe -O - http://temp.dev
+start C:\courts\wget.exe -O - http://temp.dev
+start C:\courts\wget.exe -O - http://temp.dev
+start C:\courts\wget.exe -O - http://temp.dev
+start C:\courts\wget.exe -O - http://temp.dev
+start C:\courts\wget.exe -O - http://temp.dev
+start C:\courts\wget.exe -O - http://temp.dev
+start C:\courts\wget.exe -O - http://temp.dev
+start C:\courts\wget.exe -O - http://temp.dev
+start C:\courts\wget.exe -O - http://temp.dev
+start C:\courts\wget.exe -O - http://temp.dev
+@ECHO ON
